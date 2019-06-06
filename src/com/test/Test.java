@@ -13,7 +13,7 @@ public class Test {
 		
 		Shape s = (Shape)bean;
 		
-		System.out.println("Area of Cirle is "+s.area(26));
+		System.out.println("Area is of Cirle is "+s.area(26));
 
 	}
 
